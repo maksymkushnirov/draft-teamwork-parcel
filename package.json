@@ -5,6 +5,7 @@
   "main": "index.js",
   "homepage": "https://maksymkushnirov.github.io/draft-teamwork-parcel",
   "scripts": {
+    "start": "parcel src/index.html",
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url draft-teamwork-parcel/"
   },
