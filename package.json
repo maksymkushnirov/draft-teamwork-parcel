@@ -6,7 +6,7 @@
   "scripts": {
     "start": "parcel src/index.html",
     "dev": "parcel src/index.html",
-    "build": "parcel build src/*.html --public-url /draft-teamwork-parcel/"
+    "build": "parcel build src/*.html --public-url draft-teamwork-parcel/"
   },
   "repository": {
     "type": "git",
