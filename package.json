@@ -2,7 +2,6 @@
   "name": "parcel-project-template",
   "version": "1.1.0",
   "description": "",
-  "main": "index.js",
   "homepage": "https://maksymkushnirov.github.io/draft-teamwork-parcel",
   "scripts": {
     "start": "parcel src/index.html",
